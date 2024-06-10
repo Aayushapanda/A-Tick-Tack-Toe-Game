@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component, children and Routing render/work properly Snapshot test 1`] = `
+<DocumentFragment>
+  <div
+    class="home"
+  >
+    <div
+      class="joinChatContainer"
+    >
+      <input
+        aria-label="username-input"
+        placeholder="Enter your name"
+        type="text"
+      />
+      <button
+        class="chakra-button css-4xx2wk"
+        type="button"
+      >
+        PLAY!
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
